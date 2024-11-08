@@ -1,1 +1,1 @@
-# rsschool-cv
+https://delaveur.github.io/rsschool-cv/cv
