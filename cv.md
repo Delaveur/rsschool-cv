@@ -56,5 +56,21 @@ function openOrSenior(data){
 - Preparation of technical tasks with prototypes
 - QA Tester
 
+## Education
+### Federal state autonomous educational institution of higher education "Russian university of transport" (MIIT)
 
+**2008-2014 Institute Of Transport Engineering And Control Systems (ITTSU)**  
+Qualification "Mathematician" 09102 "Computer security"  
+
+### 1C-Bitrix
+
+Courses - [Training and Certification](https://dev.1c-bitrix.ru/learning/resume.php?ID=18167942-124792)
+
+### Yclients
+
+[Yclients integation course](https://www.yclients.com/)
+
+### AmoCRM
+
+[AmoCRM integration course](https://www.amocrm.ru/)
 
