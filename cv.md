@@ -74,3 +74,7 @@ Courses - [Training and Certification](https://dev.1c-bitrix.ru/learning/resume.
 
 [AmoCRM integration course](https://www.amocrm.ru/)
 
+## Languages
+
+Russian - Native  
+English - Intermediate
